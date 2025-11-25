@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Application" factoryName="Application" folderName="ggggg" nameIsGenerated="true">
+    <option name="envFilePaths">
+      <option value="$USER_HOME$/Downloads/copy-of-copy-of-favqulodda-chaqiruv-tizimi.zip" />
+    </option>
+    <module name="Dasturchi" />
+    <option name="PROGRAM_PARAMETERS" value="$MODULE_DIR$$MODULE_DIR$" />
+    <option name="WORKING_DIRECTORY" value="$USER_HOME$/Pictures/Сканы" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
